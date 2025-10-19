@@ -1,0 +1,5 @@
+{
+  "name": "Recipe & Ingredient Finder",
+  "description": "An elegant web application that helps you discover recipes based on ingredients you have, or find the ingredients needed for a specific recipe, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
